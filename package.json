@@ -1,5 +1,5 @@
 {
-  "name": "@probot/example-google-cloud-function",
+  "name": "@lucetre/example-google-cloud-function",
   "version": "1.0.0",
   "private": true,
   "description": "Probot & Google Cloud Functions example",
@@ -7,9 +7,9 @@
     "start": "probot run ./app.js",
     "test": "node test.js"
   },
-  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "author": "lucetre",
   "license": "ISC",
-  "repository": "github:probot/example-google-cloud-function",
+  "repository": "github:lucetre/example-google-cloud-function",
   "dependencies": {
     "probot": "^12.2.7"
   },
